@@ -1,0 +1,52 @@
+#instruction_1 {
+    color: green;
+    margin-left: 10;
+    margin-right: 10;
+    padding-left: 25px;
+
+}
+
+
+
+
+#how_to_play {
+    color: green;
+    margin-left: 10;
+    margin-right: 10;
+    padding-left: 25px;
+
+}
+
+#how_to_play1 {
+    color: green;
+    margin-left: 10;
+    margin-right: 10;
+    padding-left: 1px;
+}
+
+#howtoplay {
+
+    margin-left: 10;
+    margin-right: 10;
+    padding-left: 1px;
+    color: green;
+}
+
+#howtoplay1 {
+    color: green;
+    margin-left: 10;
+    margin-right: 10;
+    padding-left: 1px;
+}
+
+body {
+    background-color: rgb(251, 255, 0);
+}
+
+#instruction {
+    text-decoration: underline;
+}
+
+#back {
+    color: rgb(255, 0, 0);
+}
